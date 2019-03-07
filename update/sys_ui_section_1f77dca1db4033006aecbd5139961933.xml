@@ -15,7 +15,7 @@
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>New Section</caption>
+            <caption>New Section123</caption>
             <header>false</header>
             <name>cmdb_ci_lb_ace</name>
             <roles/>
